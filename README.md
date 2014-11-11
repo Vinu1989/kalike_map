@@ -1,7 +1,7 @@
-Kalike Interventions Information Map
+Kalike Interventions Info Map
 ========
 
-This map shows the information on [Kalike](http://kalike.org/) Interventions in Yadgir. Mapdata obtained from field survey done by Kalike and from [Openstreetmap]((http://osm.org/)).
+This map shows the information of [Kalike](http://kalike.org/) Interventions in Yadgir. Mapdata obtained from field survey done by Kalike and from [Openstreetmap]((http://osm.org/)).
 
 ### Live at:
 http://map.kalike.org
